@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iithashah.alexcadieux.me/sitemap.xml
